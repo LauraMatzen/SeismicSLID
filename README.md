@@ -1,0 +1,1 @@
+The technical report SAND2020-10548 provides an overview of the Seismic SLID Project, in which the Sliding Information Distance algorithm was applied to seismic waveform data. The project demonstrated that SLID can effectively identify the arrival times of seismic signals and that visualizations of SLID outputs can provide useful information to seismic analysts.
